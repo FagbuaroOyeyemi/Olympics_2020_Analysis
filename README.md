@@ -9,7 +9,7 @@ This Project contains SQL queries written to carry out Exploratory Data Analysis
 7. Top 10 Countries by nummber of Coaches.
 8. Medal Distribution of the United States of America (The Champion of Olympics 2020).
 
-##Files Used
+## Files Used
 The dataset contains Five files:
 1. Atheletes : Contains details about the Participating Athletes.
 2. Coaches : Contains details about the Coaches (Country, Discipline, Event).
